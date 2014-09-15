@@ -1,10 +1,12 @@
 Take racket.svg
   http://lists.racket-lang.org/dev/archive/2012-January/008705.html
 
+Install the Inkscape to OpenSCAD converter
+  http://www.thingiverse.com/thing:25036
+
 Open in Inkscape
 
-Use the Inkscapd to OpenSCAD converter
-  http://www.thingiverse.com/thing:25036
+Use aforementioned converter
 
 Tweak output. The provided racket.scad will generate a disc 3" across.
 
