@@ -1,3 +1,5 @@
+-- To reproduce from scratch ---
+
 Take racket.svg
   http://lists.racket-lang.org/dev/archive/2012-January/008705.html
 
@@ -10,12 +12,23 @@ Use aforementioned converter
 
 Tweak output. The provided racket.scad will generate a disc 3" across.
 
-3D print in white PLA
+--- If you're just using my STL file, start here ---
+
+3D print in white PLA. I suggest thinner layers towards the front (top
+as it is printed) of the button.
+
+  If you want to glue a magnet to the back {
+    Abrade the back of the button, and the magnet
+    Damp the back of the button and the abraded magnet surface
+    Apply a ~2mm diameter drop of Gorilla Glue to the magnet
+    Clamp to the back of the button
+  }
 
 Remove bumps, sand the raised surfaces with about 120 grit.
 
 Use craft smart Metallic Blue and Metallic Red gloss acrylic paint,
-available from Michael's.
+available from Michael's. This will take 2-3 coats depending on how
+thick you apply the paint.
 
 
 The logo presumably belongs to PLT Design, Inc. I'm just trying to make
